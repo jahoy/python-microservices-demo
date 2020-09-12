@@ -8,7 +8,7 @@ event sourcing방식으로 aution 에서 발생하는 event에 따라 event_bus�
 CQRS(Command Query Responsibility Segregation) 방식 도입: Command는 상태 업데이트, Query는 denormalized된 데이터를 읽기만.
 dependency injection을 통해 decoupled된 아키텍처를 유지. (external world->infrastructure->appliction->domain)
 facade, factory 패턴등을 통해 usecase를 구성하고 동작시킴.
-port-adapter 패턴을 통해 3rd party와 decoupled된 채로 통신.
+port-adapter 패턴을 통해 3rd party 또는 다른 도메인과 decoupled된 채로 통신.
 
 
 # 실행법

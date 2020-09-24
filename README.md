@@ -1,6 +1,7 @@
 # (공부용) Python-Microservices-Demo
 1. [Python으로 클린 아키텍처 적용하기](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-Clean-Architecture-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 2. [Python으로 클린 아키텍처 적용하기2](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02)
+3. [Microservices 주요 패턴 정리](https://velog.io/@jahoy/Microservices-%EC%A3%BC%EC%9A%94-%ED%8C%A8%ED%84%B4-%EC%A0%95%EB%A6%AC)
 
 ![Screen Shot 2020-09-13 at 12 10 49 AM](https://user-images.githubusercontent.com/50973416/92998617-b2434600-f555-11ea-838d-3ef50bbf15a8.png)
 
